@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="762d28dd-24ac-4fe0-8b42-713ab25667d1" name="Changes" comment="se agrega el ejercicio de estructuras de control.">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estructuras_de_control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio-inicial/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio-inicial/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio-inicial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio-inicial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
